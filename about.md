@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About this website
+title: About Hi Side Solutions
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+Hi Side Solutions provides quality IT/Cloud solutions to the high side..

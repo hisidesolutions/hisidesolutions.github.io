@@ -52,5 +52,5 @@ collections:
     output: true
     description: "Our thoughts and ideas"
     feature_text: |
-      Welcome to our blog
+      Welcome to our Blog
     feature_image: "https://picsum.photos/2560/600?image=866"

@@ -6,4 +6,4 @@ feature_text: |
   ## Hi Side Solutions
 ---
 
-Providing expert solutions to the Hi Side
+Providing expert solutions to the Hi Side.
